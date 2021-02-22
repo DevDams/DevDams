@@ -3,7 +3,7 @@
 My name is Adams Aimé-Désiré, I'm 21 years old I speak french and I'm from Cote d'Ivoire in west Africa. I'm Javascript developer with good ability in frontend development with HTML CSS VueJs and NuxtJs.
 I'm currently a student, but I am open to work if you have a little project that needs to be done.
 
-You want talk ?, feel free to send me an email at that adress : ad.aimedesire@gmail.com, or reach me on 
+You want talk ?, feel free to send me an email at that adress : ad.aimedesire@gmail.com, or reach me on [Twitter](http://twitter.com/dams9ix), [Instagram](http://instagram.com/adam.9ix), [LinkedIn](http://twitter.com/dams9ix)
 
 <!--
 **DevDams/DevDams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
