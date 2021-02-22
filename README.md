@@ -1,6 +1,9 @@
-### Hi there 👋, I'm Aimé
+### Hi there 👋
 
-I'm Javascript developer but I can build a beautiful frontend website for you if you need it
+My name is Adams Aimé-Désiré, I'm 21 years old I speak french and I'm from Cote d'Ivoire in west Africa. I'm Javascript developer with good ability in frontend development with HTML CSS VueJs and NuxtJs.
+I'm currently a student, but I am open to work if you have a little project that needs to be done.
+
+You want talk ?, feel free to send me an email at that adress : ad.aimedesire@gmail.com, or reach me on 
 
 <!--
 **DevDams/DevDams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
