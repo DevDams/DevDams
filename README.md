@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Aimé
+
+I'm Javascript developer but I can build a beautiful frontend website for you if you need it
 
 <!--
 **DevDams/DevDams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
