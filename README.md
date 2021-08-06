@@ -7,6 +7,10 @@ You want talk ?, feel free to send me an email at this adress : ad.aimedesire@gm
 
 Fun Fact : I love cats more than any other animals
 
+[![My stats](https://github-readme-stats.vercel.app/api?username=devdams&count_private=true&show_icons=true&theme=cobalt)](https://github.com/devdams/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devdams&layout=compact&theme=cobalt)](https://github.com/devdams/github-readme-stats)
+
 <!--
 **DevDams/DevDams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
