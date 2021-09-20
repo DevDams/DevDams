@@ -1,4 +1,4 @@
-### Hi there 👋
+### こんにちは 👋
 
 My name is Adams Aimé-Désiré, I speak french and I'm from Cote d'Ivoire in west Africa. I'm Javascript developer with good ability in frontend development with HTML CSS VueJs and NuxtJs.
 I'm currently a student, but I am open to work if you have a little project that needs to be done.
