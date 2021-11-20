@@ -18,10 +18,13 @@ HTML, CSS, TailwindCss, JavaScript, Vue.js, NuxtJs, Node, Express, MongoDB, Git 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="auto" height="70"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="auto" height="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="auto" height="70"/>
+  <img src="https://avatars1.githubusercontent.com/u/30317862?s=280&v=4" alt="tailwindcss" width="auto" height="70"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="auto" height="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="auto" height="70" />
-  <img src="https://git.io/JrCQk" alt="web accessibility" width="auto" height="70"/>
+  <img src="https://blog.engineering.publicissapient.fr/wp-content/uploads/2016/11/vuejs-logo-5-300x300.png" alt="vuejs" width="auto" height="70" />
+  <img src="https://www.nuxtjs.cn/logos/nuxt-icon@2x.png" alt="nuxtjs" width="auto" height="70"/>
+  <img src="https://www.technoscore.com/images/services/node-js-icon.png" alt="Node" width="auto" height="70"/>
+  <img src="https://uploads.toptal.io/blog/category/logo/25/express_js.png" alt="Express" width="auto" height="70"/>
+  <img src="https://www.kindpng.com/picc/m/385-3850482_mongodb-logo-png-transparent-png.png" alt="MongoDB" width="auto" height="70"/>
 </p>
 
 ## :books: What am I currently learning?
