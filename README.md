@@ -1,5 +1,7 @@
 # :wave: Hello Everyone!
 
+<a href="https://app.daily.dev/dams9ix"><img src="https://api.daily.dev/devcards/86c27a7622b949e49c420c3421d34a52.png?r=jcu" width="400" alt="Adams Aimé-Désiré's Dev Card"/></a>
+
 <p align="left">
   <a href="https://twitter.com/dams9ix" target="_blank"><img src="https://img.shields.io/twitter/follow/dams9ix?logo=twitter&style=for-the-badge" alt="Twitter followers." /></a> 
   <img alt="GitHub" src="https://img.shields.io/github/license/DevDams/DevDams?color=pink&style=for-the-badge">
