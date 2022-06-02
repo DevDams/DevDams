@@ -13,20 +13,7 @@ I love building things with code, especially a website. When, I was a kid I real
 
 ## :star: Skills
 
-HTML, CSS, TailwindCss, JavaScript, Vue.js, NuxtJs, Node, Express, MongoDB, Git (using git bash), Wordpress.
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="auto" height="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="auto" height="70"/>
-  <img src="https://avatars1.githubusercontent.com/u/30317862?s=280&v=4" alt="tailwindcss" width="auto" height="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="auto" height="70"/>
-  <img src="https://blog.engineering.publicissapient.fr/wp-content/uploads/2016/11/vuejs-logo-5-300x300.png" alt="vuejs" width="auto" height="70" />
-  <img src="https://coder.clothing/images/stories/virtuemart/product/resized/react-logo_418x418.png" alt="react" width="auto" height="70"/>
-  <img src="https://www.nuxtjs.cn/logos/nuxt-icon@2x.png" alt="nuxtjs" width="auto" height="70"/>
-  <img src="https://www.technoscore.com/images/services/node-js-icon.png" alt="Node" width="auto" height="70"/>
-  <img src="https://uploads.toptal.io/blog/category/logo/25/express_js.png" alt="Express" width="auto" height="70"/>
-  <img src="https://www.kindpng.com/picc/m/385-3850482_mongodb-logo-png-transparent-png.png" alt="MongoDB" width="auto" height="70"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ## :books: What am I currently learning?
 
