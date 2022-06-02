@@ -13,18 +13,13 @@ I love building things with code, especially a website. When, I was a kid I real
 
 ## :star: Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,vue,nuxtjs,react,angular,nestjs,express,nodejs,mongodb,wordpress,figma&perline=8)](https://skillicons.dev)
 
 ## :books: What am I currently learning?
 
-Right now, I'm learning React Native, Angular, NestJs, Blender, and much more. But, my main focus is sharpening my JavaScript skill by doing fullstack application.
+Right now, I'm learning React Native, Blender, and much more. But, my main focus is sharpening my JavaScript skill by doing fullstack application.
 
-<p align="left">
-  <img src="https://coder.clothing/images/stories/virtuemart/product/resized/react-logo_418x418.png" alt="react" width="auto" height="70"/>
-  <img src="https://s3.amazonaws.com/media-p.slid.es/uploads/667163/images/3574763/angular-logo-534x441.png" alt="angular" width="auto" height="70"/>
-  <img src="https://static.packt-cdn.com/products/9781789615869/graphics/assets/3159858f-6bc9-4b8b-b4ec-cd1a1badffbd.png" alt="Nest" width="auto" height="70"/>
-  <img src="https://www.kindpng.com/picc/m/75-753756_blender-logo-png-transparent-png.png" alt="blender" width="auto" height="70"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=react,blender)](https://skillicons.dev)
 
 ## :eyes: How can you connect with me?
 
